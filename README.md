@@ -1,7 +1,6 @@
 [![MasterHead](https://cdn.acodez.in/wp-content/uploads/2018/03/13-programming-languages-expected-to-change-the-future-of-coding-banner.png)]()
 <h1 align="center">Hi 👋, I'm Randhir Kumar</h1>
 <h3 align="center">Welcome to my GitHub profile! 👋 As a passionate and experienced Full Stack .NET Developer, I thrive in building robust and scalable applications. With expertise in front-end and back-end development, I strive to deliver seamless user experiences and efficient code solutions. Collaborative by nature, I enjoy working in agile teams and leveraging the power of modern technologies. Let's connect and explore the world of software development together! 🚀💻 #FullStackDeveloper #DotNet #SoftwareDevelopment</h3>
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randhirk413&label=Profile%20views&color=0e75b6&style=flat" alt="randhirk413" /> </p>
 
