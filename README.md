@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/randhirkumarsingh/overlay/background-image/)]()
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHGgZsWF7YB7g/profile-displaybackgroundimage-shrink_350_1400/0/1686835771204?e=1692230400&v=beta&t=F6IjrSrrafjEfQ60JLd-2JkL1ytrPXy91aWFu58mXeg)]()
 <h1 align="center">Hi 👋, I'm Randhir Kumar</h1>
 <h3 align="center">Welcome to my GitHub profile! 👋 As a passionate and experienced Full Stack .NET Developer, I thrive in building robust and scalable applications. With expertise in front-end and back-end development, I strive to deliver seamless user experiences and efficient code solutions. Collaborative by nature, I enjoy working in agile teams and leveraging the power of modern technologies. Let's connect and explore the world of software development together! 🚀💻 #FullStackDeveloper #DotNet #SoftwareDevelopment</h3>
 
