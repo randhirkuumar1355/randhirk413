@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Solidity, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/randhirk413](https://github.com/randhirk413)
+- 👨‍💻 All of my projects are available at [https://github.com/randhirk413?tab=repositories](https://github.com/randhirk413?tab=repositories)
 
 - 💬 Ask me about **Angular, Ionic, C#, Asp.Net Core, Entity Framework Core**
 
