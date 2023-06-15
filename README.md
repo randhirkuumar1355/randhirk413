@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Randhir Kumar</h1>
 <h3 align="center">Welcome to my GitHub profile! 👋 As a passionate and experienced Full Stack .NET Developer, I thrive in building robust and scalable applications. With expertise in front-end and back-end development, I strive to deliver seamless user experiences and efficient code solutions. Collaborative by nature, I enjoy working in agile teams and leveraging the power of modern technologies. Let's connect and explore the world of software development together! 🚀💻 #FullStackDeveloper #DotNet #SoftwareDevelopment</h3>
+<img align="right" alt="Coding" width="400" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randhirk413&label=Profile%20views&color=0e75b6&style=flat" alt="randhirk413" /> </p>
 
