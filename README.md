@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **randhirk413@gmail.com**
 
-- ⚡ Fun fact **I am a passionate software developer who's not only a coding wizard but also an adventurous explorer! They have an insatiable love for historical and natural places, a passion for savoring delicious food, and a heartwarming dedication to spending quality time with their beloved family. Truly a remarkable combination of skills and passions!**
+- ⚡ Fun fact **I am a passionate software developer who's not only a coding wizard but also an adventurous explorer! I have an insatiable love for historical and natural places, a passion for savoring delicious food, and a heartwarming dedication to spending quality time with their beloved family. Truly a remarkable combination of skills and passions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
